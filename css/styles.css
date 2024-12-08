@@ -95,3 +95,6 @@ section ul {
 .footer a:hover {
   text-decoration: underline;
 }
+.link {
+  color: #5783a0;
+}
